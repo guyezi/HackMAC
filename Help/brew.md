@@ -1,6 +1,6 @@
 # Brew 安装
 
-mac 终端下，执行以下命令，即可安装brew：
+- mac 终端下，执行以下命令，即可安装brew：
 
 `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
 
