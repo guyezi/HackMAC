@@ -8,10 +8,10 @@
 ![Z97X-UD3H](Z97X-UD3H.png)
 
 |      |      |      | HS13 |      |      |      |
-| ---- | :--: | :--: | :--: | ---- | ---- | ---- |
+| ---- | :--: | :--: | :--: | :--: | ---- | ---- |
 |      |      | HS10 | HS14 |      |      |      |
-|      | VGA  | HS09 | HS05 |      |      |      |
-|      | DVI  | HDMI | HS06 |      |      |      |
+|      | VGA  | HS09 | HS05 | SS04 |      |      |
+|      | DVI  | HDMI | HS06 | SS03 |      |      |
 
 |      |      |      |      |
 | :--: | ---- | ---- | :--: |
@@ -55,3 +55,42 @@
 26. PR24 - Controller EH02
 27. PR25 - Controller EH02
 28. PR26 - Controller EH02
+
+  #######################################################
+ #                  3.0 Ports                    #
+#######################################################
+
+1. HS05 - Controller XHC
+2. HS06 - Controller XHC
+3. HS09 - Controller XHC
+    - USB GAMING MOUSE 
+4. HS10 - Controller XHC
+    - Gaming KB 
+5. HS11 - Controller XHC
+6. HS12 - Controller XHC
+7. HS14 - Controller XHC
+8. SS01 - Controller XHC
+9. SS02 - Controller XHC
+10. SS03 - Controller XHC
+   - 3.0后置右底
+11. SS04 - Controller XHC
+    - 3.0后置右顶
+12. SS05 - Controller XHC
+13. SS06 - Controller XHC
+14. PR11 - Controller EH01
+    - hub_device
+15. PR12 - Controller EH01
+16. PR13 - Controller EH01
+17. PR14 - Controller EH01
+18. PR15 - Controller EH01
+19. PR16 - Controller EH01
+20. PR17 - Controller EH01
+21. PR18 - Controller EH01
+22. PR21 - Controller EH02
+    - hub_device
+23. PR22 - Controller EH02
+24. PR23 - Controller EH02
+25. PR24 - Controller EH02
+26. PR25 - Controller EH02
+27. PR26 - Controller EH02
+
