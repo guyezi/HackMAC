@@ -1,4 +1,4 @@
-[github mdedit 测试文件](test)
+- [github的md编辑测试文件](help/test)
 
-[帮助](Help)
+- [帮助](help)
 
