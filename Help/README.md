@@ -8,5 +8,5 @@
 
 - [命令树 tree 安装](tree)
 
-- [appdmg 安装]（appdmg）
-
+- [appdmg 安装](appdmg)
+- 
