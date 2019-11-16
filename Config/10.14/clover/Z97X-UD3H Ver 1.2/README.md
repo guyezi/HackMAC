@@ -20,43 +20,84 @@
 
 
 1. HS01 - Controller XHC 
+
 2. HS02 - Controller XHC
+
 3. HS03 - Controller XHC
+
 4. HS04 - Controller XHC
+
 5. HS05 - Controller XHC
+  
    - 2.0后置中-底
+   
 6. HS06 - Controller XHC
+  
    - 2.0后置底
+   
 7. HS07 - Controller XHC
+
 8. HS08 - Controller XHC
+
 9. HS09 - Controller XHC   3.0
+  
     - 3.0 后置左底
+    
 10. HS10 - Controller XHC   3.0
-   - 3.0 后置左顶
+  
+    - USB3.0 Hub
+    
+      ​        `-` USB Storage
+    
 11. HS11 - Controller XHC   2.0
+  
     - 2.0 前置左   
+    
 12. HS12 - Controller XHC   2.0
+  
     - 2.0 前置右 
-13. HS13 - Controller XHC   
-14. HS14 - Controller XHC
+    
+13. HS13 - Controller XHC   2.0
+
+      \- USB Gaming KB 
+
+14. HS14 - Controller XHC   2.0
+
+      \- USB GAMING MOUSE
+
 15. PR11 - Controller EH01
+
     - hub_device
+
 16. PR12 - Controller EH01
+
 17. PR13 - Controller EH01
+
 18. PR14 - Controller EH01
+
 19. PR15 - Controller EH01
+
 20. PR16 - Controller EH01
+
 21. PR17 - Controller EH01
+
 22. PR18 - Controller EH01
+
 23. PR21 - Controller EH02
+
     - hub_device
+
 24. PR22 - Controller EH02
+
 25. PR23 - Controller EH02
+
 26. PR24 - Controller EH02
+
 27. PR25 - Controller EH02
+
 28. PR26 - Controller EH02
 
-  #######################################################
+   #######################################################
  #                  3.0 Ports                    #
 #######################################################
 
