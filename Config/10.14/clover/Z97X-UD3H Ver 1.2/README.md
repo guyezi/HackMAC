@@ -1,4 +1,4 @@
-#Clover 配置说明
+# Clover 配置说明
 
 - 主板  ： <u>Z97X-UD3H ver 1.2</u>
 
