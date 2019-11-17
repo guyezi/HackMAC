@@ -8,14 +8,14 @@
 ![Z97X-UD3H](Z97X-UD3H.png)
 
 |      |      |      | HS13 |      |      |      |
-| ---- | :--: | :--: | :--: | :--: | ---- | ---- |
-|      |      | HS10 | HS14 |      |      |      |
-|      | VGA  | HS09 | HS05 | SS04 |      |      |
-|      | DVI  | HDMI | HS06 | SS03 |      |      |
+| ---- | :--: | :--: | :--: | :--: | :--: | :--: |
+|      |      | SS06 | HS14 | LAN  |  红  |  蓝  |
+|      | VGA  | SS05 | HS05 | SS04 |  黑  |  绿  |
+|      | DVI  | HDMI | HS06 | SS03 |      |  粉  |
 
-|      |      |      |      |
-| :--: | ---- | ---- | :--: |
-| HS11 |      |      | HS12 |
+| SS01 |      |      |      |
+| :--: | :--: | :--: | :--: |
+| HS11 |  绿  |  粉  | HS12 |
 
 
 
@@ -41,7 +41,7 @@
 
 9. HS09 - Controller XHC   3.0
   
-    - 3.0 后置左底
+    - 
     
 10. HS10 - Controller XHC   3.0
   
@@ -102,36 +102,74 @@
 #######################################################
 
 1. HS05 - Controller XHC
+
 2. HS06 - Controller XHC
-3. HS09 - Controller XHC
-    - USB GAMING MOUSE 
-4. HS10 - Controller XHC
+
+3. HS11 - Controller XHC
+
+4. HS12 - Controller XHC
+
+5. HS13 - Controller XHC
+  
     - Gaming KB 
-5. HS11 - Controller XHC
-6. HS12 - Controller XHC
-7. HS14 - Controller XHC
-8. SS01 - Controller XHC
-9. SS02 - Controller XHC
-10. SS03 - Controller XHC
-   - 3.0后置右底
-11. SS04 - Controller XHC
-    - 3.0后置右顶
-12. SS05 - Controller XHC
-13. SS06 - Controller XHC
-14. PR11 - Controller EH01
+    
+6. HS14 - Controller XHC
+  
+    - USB GAMING MOUSE 
+    
+7. SS01 - Controller XHC
+  
+    - 前置 USB 3.0
+    
+8. SS02 - Controller XHC
+
+9. SS03 - Controller XHC
+
+   - -- Ultra USB 3.0
+
+10. SS04 - Controller XHC
+
+   - -- Ultra USB 3.0
+
+11. SS05 - Controller XHC
+
+    - 后置左 3.0
+
+12. SS06 - Controller XHC 3.0
+    -  --USB3.0 Hub
+           -- Ultra USB 3.0
+      
+      ​     -- USB DISK
+
+13. PR11 - Controller EH01
+
     - hub_device
-15. PR12 - Controller EH01
-16. PR13 - Controller EH01
-17. PR14 - Controller EH01
-18. PR15 - Controller EH01
-19. PR16 - Controller EH01
-20. PR17 - Controller EH01
-21. PR18 - Controller EH01
-22. PR21 - Controller EH02
+
+14. PR12 - Controller EH01
+
+15. PR13 - Controller EH01
+
+16. PR14 - Controller EH01
+
+17. PR15 - Controller EH01
+
+18. PR16 - Controller EH01
+
+19. PR17 - Controller EH01
+
+20. PR18 - Controller EH01
+
+21. PR21 - Controller EH02
+
     - hub_device
-23. PR22 - Controller EH02
-24. PR23 - Controller EH02
-25. PR24 - Controller EH02
-26. PR25 - Controller EH02
-27. PR26 - Controller EH02
+
+22. PR22 - Controller EH02
+
+23. PR23 - Controller EH02
+
+24. PR24 - Controller EH02
+
+25. PR25 - Controller EH02
+
+26. PR26 - Controller EH02
 
