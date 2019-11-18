@@ -1,6 +1,5 @@
+[toc]
 # 使用OpenCore引导黑苹果
-
-[2019年10月4日](https://blog.xjn819.com/?p=543) BY [XJN](https://blog.xjn819.com/?author=1)·[69条评论](https://blog.xjn819.com/?p=543#comments)
 
 目前为止，最新版的OpenCore(V0.5.1)已经证明了自己在10.14.6至10.15 beta 11上的稳定性。考虑到即将来临的10.15正式版，我想现在写一份关于z390等比较新的主板，如何使用OpenCore去引导新系统是一个不错的时间点。
 
@@ -8,19 +7,19 @@
 
 **我的电脑配置**
 
-- Motherboard/主板: Gigabyte Z390 Elite                               [购买链接](https://item.jd.com/100000612307.html)
-- External Hard Drive/硬盘: Samsung 970 Pro 1T M.2 NVMe SSD           [购买链接](https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-15851453210.76.2f125fdaD675eM&id=542960463096)
-- CPU: I7-9700K                                       散片，购于本地电脑城
-- Graphic Card/显卡: Sapphire RX5700XT 8G 超白金                        [购买链接](https://item.jd.com/100008161504.html)
-- Wireless Card/网卡: BCM943602CS 3-Antenna                        [购买链接](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.1d3b2e8d3HVEuK&id=537224252272&_u=g1c04cj3b7a)
-- RAM/内存: G-Skill 皇家戟RGB灯条 DDR4 3200 8G x 4                    [购买链接](https://item.jd.com/100002370616.html)
-- Tower Case/机箱: 酷冷至尊 MasterCase H500                         [购买链接](https://item.jd.com/8690431.html)
-- Others/其他1: Gigabyte GC-Titan Ridge Thunderbolt 3 Card                [购买链接 ](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.10d02e8dGqbEcK&id=588317535380&_u=g1c04cj4c10)
-- Others/其他2: Qnap QNA-T310G1T Thunderbolt 3 to 10GbE Adapter        [购买链接 ](https://item.jd.com/100001808731.html)          
-- Monitor/显示器1: LG Ultrafine 4K                                     [ 购买链接](https://www.apple.com/cn/shop/product/HMUA2?fnode=4c)
-- Monitor/显示器2: KOIOS 2418U                                      [购买链接](https://item.jd.com/27902921518.html)
-- Keyboard/键盘: Apple 妙控键盘                                          [购买链接 ](https://www.apple.com/cn/shop/product/MQ052CW/A?fnode=56&fs=f%3Dkeyboard%26fh%3D36f4%2B4603)             
-- Touchpad/触摸板: Apple 妙控板 2                                        [购买链接](https://www.apple.com/cn/shop/product/MJ2R2CH/A?fnode=56)
+- Motherboard/主板: Gigabyte Z390 Elite                               
+- External Hard Drive/硬盘: Samsung 970 Pro 1T M.2 NVMe SSD         
+- CPU: I7-9700K                                       
+- Graphic Card/显卡: Sapphire RX5700XT 8G 超白金                        
+- Wireless Card/网卡: BCM943602CS 3-Antenna                        
+- RAM/内存: G-Skill 皇家戟RGB灯条 DDR4 3200 8G x 4                   
+- Tower Case/机箱: 酷冷至尊 MasterCase H500                     
+- Others/其他1: Gigabyte GC-Titan Ridge Thunderbolt 3 Card            
+- Others/其他2: Qnap QNA-T310G1T Thunderbolt 3 to 10GbE Adapter                 
+- Monitor/显示器1: LG Ultrafine 4K                                  
+- Monitor/显示器2: KOIOS 2418U                                     
+- Keyboard/键盘: Apple 妙控键盘                                                     
+- Touchpad/触摸板: Apple 妙控板 2                                     
 
 # **简介**
 
